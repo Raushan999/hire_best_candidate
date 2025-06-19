@@ -1,0 +1,8 @@
+mysql-connector-python
+pinecone
+pandas
+numpy
+google-genai
+PyMySQL
+langchain-google-genai
+python-dotenv
